@@ -1,0 +1,4 @@
+The main role of DNS (Domain Name System) is to **translate domain names into IP addresses**. It is a system that allows humans to use easily memorable domain names (like www.example.com) to access websites, while computers use IP addresses (like 192.0.2.1) to locate and communicate with each other over a network. DNS serves as a distributed directory that translates human-friendly domain names into the numerical IP addresses needed for devices to find and communicate with each other on the Internet. It doesn't handle port translation; that's a separate part of the networking process.DNS, or the Domain Name System, translates human readable domain names (for example, www.amazon.com) to machine readable IP addresses (for example, 192.0.2.44).
+
+
+https://aws.amazon.com/route53/what-is-dns/#:~:text=DNS%2C%20or%20the%20Domain%20Name,example%2C%20192.0.2.44).
